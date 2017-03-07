@@ -15,7 +15,7 @@ ${setDuplicatefakehtmlmd("true")}
 ${setConvertmarkdown2html("true")}
 ${setAuthor("Kazune")}
 ${setBaseurl("https://kazune.github.io/diary")}
-${setSourcebaseurl("https://github.com/kazune/diary/blob/gh-pages")}
+${setSourcebaseurl("https://github.com/kazune/diary/blob/master")}
 ${setGeneratekeywordifneeded("true")}
 
 ### Setting: inittemplate

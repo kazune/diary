@@ -1,4 +1,4 @@
-[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/settings.html) / [source](https://github.com/kazune/diary/blob/gh-pages/settings.src.md) 
+[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/settings.html) / [source](https://github.com/kazune/diary/blob/master/settings.src.md) 
 
 Settings for igapyonv3 env
 =====================================================================================================
@@ -13,7 +13,7 @@ This file is settings for [[igapyonv3]].
 * verbose: true
 * debug: false
 * baseurl: https://kazune.github.io/diary
-* sourcebaseurl: https://github.com/kazune/diary/blob/gh-pages
+* sourcebaseurl: https://github.com/kazune/diary/blob/master
 * author: Kazune
 * generatetodaydiary: true
 * convertmarkdown2html: true

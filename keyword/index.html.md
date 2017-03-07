@@ -1,4 +1,4 @@
-[top](../index.html) / [index](index.html) / [target](https://kazune.github.io/diary/keyword/index.html) / [source](https://github.com/kazune/diary/blob/gh-pages/keyword/index.src.md) 
+[top](../index.html) / [index](index.html) / [target](https://kazune.github.io/diary/keyword/index.html) / [source](https://github.com/kazune/diary/blob/master/keyword/index.src.md) 
 
 Kazune's diary: keyword
 =====================================================================================================

@@ -1,4 +1,4 @@
-[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/idxall.html) / [source](https://github.com/kazune/diary/blob/gh-pages/idxall.src.md) 
+[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/idxall.html) / [source](https://github.com/kazune/diary/blob/master/idxall.src.md) 
 
 Kazune's diary: all
 =====================================================================================================

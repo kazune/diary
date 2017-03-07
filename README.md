@@ -1,4 +1,4 @@
-[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/README.html) / [source](https://github.com/kazune/diary/blob/gh-pages/README.src.md) 
+[top](index.html) / [index](index.html) / [target](https://kazune.github.io/diary/README.html) / [source](https://github.com/kazune/diary/blob/master/README.src.md) 
 
 Kazune's diary: top
 =====================================================================================================
