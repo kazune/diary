@@ -12,7 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
-* [2017-03-07 diary: Diary title here](2017/ig170307.html)
+* [2017-03-07 diary: はじめてのにっき](2017/ig170307.html)
 
 
 ----------------------------------------------------------------------------------------------------
