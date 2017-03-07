@@ -1,5 +1,5 @@
 <@localyearlist /> / [keyword](../keyword/index.html)
 
-## Watashi's diary: keyword
+## Kazune's diary: keyword
 
 <@localrss filename="atom.xml" />

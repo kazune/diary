@@ -1,6 +1,6 @@
 <@localyearlist /> / [keyword](keyword/index.html)
 
-## Watashi's diary: top
+## Kazune's diary: top
 
 ### Recent diary ([Feed](${settings.baseurl}/atomRecent.xml))
 

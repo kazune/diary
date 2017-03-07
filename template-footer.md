@@ -2,7 +2,7 @@
 <@keywordlist /></#if>
 ----------------------------------------------------------------------------------------------------
 
-## About Watashi's diary
+## About Kazune's diary
 
 <@linkshare /> / <@linktop /> / [Diary Generator](https://github.com/igapyon/igapyonv3)
 

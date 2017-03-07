@@ -1,6 +1,6 @@
 <@localyearlist /> / [keyword](keyword/index.html)
 
-## Watashi's diary: all
+## Kazune's diary: all
 
 ### All diary ([Feed](${settings.baseurl}/atom.xml))
 

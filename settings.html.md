@@ -2,7 +2,7 @@
 
 Settings for igapyonv3 env
 =====================================================================================================
-Watashi's diary
+Kazune's diary
 
 ## Settings for igapyonv3 env
 
@@ -39,7 +39,7 @@ This file is settings for [[igapyonv3]].
 
 ----------------------------------------------------------------------------------------------------
 
-## About Watashi's diary
+## About Kazune's diary
 
 [Share on Twitter](https://twitter.com/intent/tweet?hashtags=igapyon%2Cdiary%2C%E3%81%84%E3%81%8C%E3%81%B4%E3%82%87%E3%82%93%2Cigapyonv3&text=Settings+for+igapyonv3+env&url=https%3A%2F%2Fkazune.github.io%2Fdiary%2Fsettings.html) / [top](index.html) / [Diary Generator](https://github.com/igapyon/igapyonv3)
 
