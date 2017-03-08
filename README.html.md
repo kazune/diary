@@ -12,7 +12,7 @@ Kazune's diary
 
 ### Recent diary ([Feed](https://kazune.github.io/diary/atomRecent.xml))
 
-* [2017-03-08 diary: Diary title here](2017/ig170308.html)
+* [2017-03-08 diary: 二日目 いい天気](2017/ig170308.html)
 * [2017-03-07 diary: はじめてのにっき](2017/ig170307.html)
 
 
