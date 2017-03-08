@@ -10,6 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
+* [2017-03-08 diary: Diary title here](ig170308.html)
 * [2017-03-07 diary: はじめてのにっき](ig170307.html)
 
 
