@@ -10,6 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
+* [2017-03-10 diary: 四日目 風が心地いい](ig170310.html)
 * [2017-03-09 diary: 三日目　月がキレイ](ig170309.html)
 * [2017-03-08 diary: 二日目 いい天気](ig170308.html)
 * [2017-03-07 diary: はじめてのにっき](ig170307.html)
