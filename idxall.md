@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-12 diary: 六日目 優しい日差し](2017/ig170312.html)
 * [2017-03-11 diary: 五日目 運がよくない](2017/ig170311.html)
 * [2017-03-10 diary: 四日目 風が心地いい](2017/ig170310.html)
 * [2017-03-09 diary: 三日目 月がキレイ](2017/ig170309.html)
