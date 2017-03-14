@@ -10,6 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
+* [2017-03-14 diary: 八日目 降りそうで降らない](ig170314.html)
 * [2017-03-13 diary: 七日目 どんよりの匂い](ig170313.html)
 * [2017-03-12 diary: 六日目 優しい日差し](ig170312.html)
 * [2017-03-11 diary: 五日目 運がよくない](ig170311.html)
