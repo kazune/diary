@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-15 diary: 九日目 凍てつく風](2017/ig170315.html)
 * [2017-03-14 diary: 八日目 降りそうで降らない](2017/ig170314.html)
 * [2017-03-13 diary: 七日目 どんよりの匂い](2017/ig170313.html)
 * [2017-03-12 diary: 六日目 優しい日差し](2017/ig170312.html)
