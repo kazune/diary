@@ -10,7 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
-* [2017-03-19 diary: インクが切れる](ig170319.html)
+* [2017-03-19 diary: 13日目 インクが切れる](ig170319.html)
 * [2017-03-18 diary: 12日目 重いまぶた](ig170318.html)
 * [2017-03-17 diary: 11日目 昼夜の気温差](ig170317.html)
 * [2017-03-16 diary: 10日目 未設定](ig170316.html)
