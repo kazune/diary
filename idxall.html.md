@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-19 diary: インクが切れる](2017/ig170319.html)
 * [2017-03-18 diary: 12日目 重いまぶた](2017/ig170318.html)
 * [2017-03-17 diary: 11日目 昼夜の気温差](2017/ig170317.html)
 * [2017-03-16 diary: 10日目 未設定](2017/ig170316.html)
