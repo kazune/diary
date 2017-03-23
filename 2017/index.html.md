@@ -10,6 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
+* [2017-03-23 diary: Diary title here](ig170323.html)
 * [2017-03-22 diary: 16日目 桶屋が儲かる](ig170322.html)
 * [2017-03-21 diary: 15日目 季節の変わり目](ig170321.html)
 * [2017-03-20 diary: 14日目 風が強い](ig170320.html)
