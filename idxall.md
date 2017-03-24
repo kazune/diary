@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-24 diary: 18日目 煤かぶりの姫](2017/ig170324.html)
 * [2017-03-23 diary: 17日目 空気が悪い](2017/ig170323.html)
 * [2017-03-22 diary: 16日目 桶屋が儲かる](2017/ig170322.html)
 * [2017-03-21 diary: 15日目 季節の変わり目](2017/ig170321.html)
