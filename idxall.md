@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-25 diary: 19日目 鳴らない電話](2017/ig170325.html)
 * [2017-03-24 diary: 18日目 灰かぶりの姫](2017/ig170324.html)
 * [2017-03-23 diary: 17日目 空気が悪い](2017/ig170323.html)
 * [2017-03-22 diary: 16日目 桶屋が儲かる](2017/ig170322.html)
