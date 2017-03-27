@@ -4,6 +4,15 @@
   <dc:creator>Kazune</dc:creator>
   <dc:language>ja_JP</dc:language>
   <entry>
+    <title>2017-03-27 diary: 21日目 海を越えて</title>
+    <link rel="alternate" href="https://kazune.github.io/diary/2017/ig170327.html" />
+    <author>
+      <name>Kazune</name>
+    </author>
+    <id>https://kazune.github.io/diary/2017/ig170327.html</id>
+    <dc:creator>Kazune</dc:creator>
+  </entry>
+  <entry>
     <title>2017-03-26 diary: 20日目 冷たい雨</title>
     <link rel="alternate" href="https://kazune.github.io/diary/2017/ig170326.html" />
     <author>
@@ -127,15 +136,6 @@
       <name>Kazune</name>
     </author>
     <id>https://kazune.github.io/diary/2017/ig170313.html</id>
-    <dc:creator>Kazune</dc:creator>
-  </entry>
-  <entry>
-    <title>2017-03-12 diary: 六日目 優しい日差し</title>
-    <link rel="alternate" href="https://kazune.github.io/diary/2017/ig170312.html" />
-    <author>
-      <name>Kazune</name>
-    </author>
-    <id>https://kazune.github.io/diary/2017/ig170312.html</id>
     <dc:creator>Kazune</dc:creator>
   </entry>
 </feed>

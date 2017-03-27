@@ -12,6 +12,7 @@ Kazune's diary
 
 ### All diary ([Feed](https://kazune.github.io/diary/atom.xml))
 
+* [2017-03-27 diary: 21日目 海を越えて](2017/ig170327.html)
 * [2017-03-26 diary: 20日目 冷たい雨](2017/ig170326.html)
 * [2017-03-25 diary: 19日目 鳴らない電話](2017/ig170325.html)
 * [2017-03-24 diary: 18日目 灰かぶりの姫](2017/ig170324.html)

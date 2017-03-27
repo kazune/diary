@@ -10,6 +10,7 @@ Kazune's diary
 
 ## Kazune's diary: diary of 2017
 
+* [2017-03-27 diary: 21日目 海を越えて](ig170327.html)
 * [2017-03-26 diary: 20日目 冷たい雨](ig170326.html)
 * [2017-03-25 diary: 19日目 鳴らない電話](ig170325.html)
 * [2017-03-24 diary: 18日目 灰かぶりの姫](ig170324.html)
